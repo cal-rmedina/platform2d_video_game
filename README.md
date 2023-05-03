@@ -38,14 +38,14 @@ execution. The <b>file name</b> can guide the curious user to know the
 purpose of each script, e.g., `PlayerLife.cs` contains the
 triggered functions once the player touches a deadly object. 
 
->```cs
-private void Die()
-{
-  deathSoundEffect.Play();
-  rb.bodyType = RigidbodyType2D.Static; 
-  anim.SetTrigger("death");
-}
->```
+```cs
+    private void Die()
+    {
+       deathSoundEffect.Play();
+       rb.bodyType = RigidbodyType2D.Static; 
+       anim.SetTrigger("death");
+     }
+```
 
 >A fragment of the `PlayerLife.cs` code is taken to illustrate function
 >structure of inside each script.
