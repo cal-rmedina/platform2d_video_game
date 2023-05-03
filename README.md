@@ -61,8 +61,7 @@ first (`pwd`) will tell you the directory where the termial is, and the second
 will download the repository on that directory
 
 ```
-$pwd
-$git clone https://github.com/cal-rmedina/platform2d_video_game.git 
+$pwd;git clone https://github.com/cal-rmedina/platform2d_video_game.git 
 ``` 
 Or simply download it directly from the webpage
 https://github.com/cal-rmedina/platform2d_video_game.git 
