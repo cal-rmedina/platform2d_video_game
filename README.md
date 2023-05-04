@@ -48,7 +48,7 @@ triggered functions once the player touches a deadly object.
 ```
 
 >A fragment of the `PlayerLife.cs` code is taken to illustrate function
->structure of inside each script.
+>structure inside each script.
 
 ## Playing the video game
 
