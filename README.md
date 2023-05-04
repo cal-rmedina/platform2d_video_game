@@ -18,7 +18,7 @@ The version used was [Unity 2021
 LTS](https://docs.unity3d.com/2021.3/Documentation/Manual/WhatsNew2021LTS.html)
 but it should run with any latest version.
 
-## Assets (`./Assets/`)
+## Assets (`./Assets/`) ![pink_character](anim.gif)
 
 - Characters, traps, tileset combinations and other small elements are taken from
 [Pixel Adventure
@@ -48,7 +48,7 @@ triggered functions once the player touches a deadly object.
 ```
 
 >A fragment of the `PlayerLife.cs` code is taken to illustrate function
->structure inside each script.
+>structure of inside each script.
 
 ## Playing the video game
 
