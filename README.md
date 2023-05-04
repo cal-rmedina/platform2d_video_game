@@ -1,4 +1,4 @@
-# 2D Platform video game example 
+# 2D Platform video game example ![Idle](readme_animations/Idle.gif) 
 
 2D video game fully developed with [Unity](https://unity.com), the game was
 developed using the Unity engine [Unity-Hub](https://unity.com/unity-hub).
@@ -18,7 +18,7 @@ The version used was [Unity 2021
 LTS](https://docs.unity3d.com/2021.3/Documentation/Manual/WhatsNew2021LTS.html)
 but it should run with any latest version.
 
-## Assets (`./Assets/`) ![pink_character](anim.gif)
+## Assets (`./Assets/`) ![Bananas](readme_animations/Bananas.gif) ![Strawberry](readme_animations/Strawberry.gif) 
 
 - Characters, traps, tileset combinations and other small elements are taken from
 [Pixel Adventure
@@ -50,14 +50,14 @@ triggered functions once the player touches a deadly object.
 >A fragment of the `PlayerLife.cs` code is taken to illustrate function
 >structure of inside each script.
 
-## Playing the video game
+## Playing the video game ![Run](readme_animations/Run.gif)
 
-For checking/modifying the structure, debbuging or simply playing the video
+For checking/modifying the structure, debugging or simply playing the video
 game, Unity installed in your computer is needed, check the [installation
 link](https://unity.com/download) and follow the instructions for your OS.
 
 Clone the github repository typing on the terminal the following commands, the
-first (`pwd`) will tell you the directory where the termial is, and the second
+first (`pwd`) will tell you the directory where the terminal is, and the second
 will download the repository on that directory
 
 ```
